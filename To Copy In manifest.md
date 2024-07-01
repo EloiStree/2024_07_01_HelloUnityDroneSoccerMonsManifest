@@ -2,6 +2,7 @@
 To copy in your manifest.json
 ```
 
+"be.eloistree.monsstartpack":"https://github.com/EloiStree/2024_07_01_HelloUnityDroneSoccerMonsManifest.git",
      "be.davidfoot.droneracerdavid": "https://github.com/DavidFoot/DroneRace_Foot_David.git",
     "be.eloistree.droneracesample": "https://github.com/EloiStree/2024_06_31_DroneRaceStepSample.git",
     "be.eloistree.droneracestepmesh": "https://github.com/EloiStree/2024_06_31_DroneRaceStep.git",
