@@ -1,5 +1,4 @@
-
-"be.davidfoot.droneracerdavid": "https://github.com/DavidFoot/DroneRace_Foot_David.git",
+    "be.davidfoot.droneracerdavid": "https://github.com/DavidFoot/DroneRace_Foot_David.git",
     "be.eloistree.droneracesample": "https://github.com/EloiStree/2024_06_31_DroneRaceStepSample.git",
     "be.eloistree.droneracestepmesh": "https://github.com/EloiStree/2024_06_31_DroneRaceStep.git",
     "be.eloistree.eloidronesample": "https://github.com/EloiStree/2024_07_01_DroneEloiSampleMons.git",
@@ -22,21 +21,4 @@
     "be.eloistree.etoolboxcolordrop": "https://github.com/EloiStree/2024_03_11_eToolbox_ColorDrop.git",
     "com.endel.nativewebsocket": "https://github.com/endel/NativeWebSocket.git#upm",
     "be.eloistree.watchexecutetime": "https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",
-
-
-
-
-
-
-# Given 
-
-https://github.com/PaulineRose07/DroneRace_Gossart_Pauline.git
- https://github.com/EloiStree/2024_07_01_DroneEloiSampleMons.git
-https://github.com/TerenceViseur/DroneRace_Terence.git
-https://github.com/OelectronO/DroneRacingMathys.git
-https://github.com/Couakadin/drone-valentin-stj.git
-https://github.com/DavidFoot/DroneRace_Foot_David.git
- https://github.com/tom-bandiera/TomsDroneRace.git
- https://github.com/SpardTechs/DroneRace_RRo.git
- https://github.com/Girostef/DroneRace_Stef.git
- https://github.com/Raftak14/DroneRaceMaxP.git
+    
