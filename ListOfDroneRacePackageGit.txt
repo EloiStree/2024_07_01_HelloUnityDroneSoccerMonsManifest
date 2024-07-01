@@ -2,7 +2,7 @@
  https://github.com/EloiStree/2024_07_01_DroneEloiSampleMons.git
 https://github.com/TerenceViseur/DroneRace_Terence.git
 https://github.com/OelectronO/DroneRacingMathys.git
-https://github.com/Couakadin/drone-valentin-stj.git
+https://github.com/Couakadin/drone_valentin_stjn.git
 https://github.com/DavidFoot/DroneRace_Foot_David.git
  https://github.com/tom-bandiera/TomsDroneRace.git
  https://github.com/SpardTechs/DroneRace_RRo.git
